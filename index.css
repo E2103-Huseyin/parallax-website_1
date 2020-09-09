@@ -1,0 +1,144 @@
+*{
+  margin: 0;
+}
+
+body, html {
+    height: 100%;
+  }
+
+
+.container_1 {
+  background-image: url(./img/Image1.jpg);
+  height: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: "Lato", sans-serif;
+  opacity: 0.7;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+
+.container_1--1{
+
+  
+  background-color: #111;
+  
+
+  
+  
+}
+
+
+
+.paragraf_1 {
+
+  
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+  font-size: 27px;
+  letter-spacing: 8px;
+  text-transform: uppercase;
+  font-family: "Lato", sans-serif;
+  /* font-weight: 400; */
+  /* line-height: 1.8em; */
+
+}
+
+.A {
+background-color: #282e34;
+color: #ddd;
+text-align:center;
+padding: 50px 80px;
+font-size: 120%;
+font-family: "Lato", sans-serif;;
+
+}
+
+.baslik_1{
+  padding-bottom: 2%;
+}
+
+
+
+.container_3{
+
+  background-image: url(./img/Image2.jpg);
+  height: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+  opacity: 0.7;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.stl_b{
+
+  color: #fff;
+  font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-size: 27px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+
+}
+
+
+
+
+
+
+.container_5{
+
+  background-image: url(./img/Image3.jpg);
+  height: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+  opacity: 0.7;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+
+
+.container_7{
+  background-image: url(./img/Image1.jpg);
+  height: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.6;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+
+}
+
+.container_7--7{
+
+  
+  border-radius: 180px 30px;
+  background-color: #111;
+}
+
